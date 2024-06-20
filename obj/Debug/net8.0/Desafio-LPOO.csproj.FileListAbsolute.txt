@@ -1,0 +1,14 @@
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.AssemblyInfoInputs.cache
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.AssemblyInfo.cs
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.csproj.CoreCompileInputs.cache
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\bin\Debug\net8.0\Desafio-LPOO.exe
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\bin\Debug\net8.0\Desafio-LPOO.deps.json
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\bin\Debug\net8.0\Desafio-LPOO.runtimeconfig.json
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\bin\Debug\net8.0\Desafio-LPOO.dll
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\bin\Debug\net8.0\Desafio-LPOO.pdb
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.dll
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\obj\Debug\net8.0\refint\Desafio-LPOO.dll
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.pdb
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.genruntimeconfig.cache
+C:\Users\thelinkergu\Documents\GustavoMLupim\LAB\Desafio-LPOO\obj\Debug\net8.0\ref\Desafio-LPOO.dll
