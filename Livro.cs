@@ -16,7 +16,7 @@ public class Livro
     }
 
     public void MostrarInfo(){
-        Console.WriteLine($"O nome do livro é {Titulo} escrito por {AutorDoLivro.Nome} ele está sendo vendido por {Preco}\n");
+        Console.WriteLine($"=====\n livro: {Titulo} \n Autor: {AutorDoLivro.Nome} \n Preço: R${Preco}\n=====\n");
     }
 
     public void AplicarDesconto(double porcentDesconto){
